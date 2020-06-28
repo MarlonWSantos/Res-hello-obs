@@ -34,6 +34,8 @@
  *      Example resource
  * \author
  *      Matthias Kovatsch <kovatsch@inf.ethz.ch>
+ * \author
+ *      Marlon W. Santos <marlon.santos.santos@icen.ufpa.br>
  */
 
 #include <stdlib.h>
